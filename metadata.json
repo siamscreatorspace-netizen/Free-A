@@ -1,0 +1,6 @@
+{
+  "name": "Free S Time",
+  "description": "Legitimate social media marketing marketplace for real promotion and real reach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
